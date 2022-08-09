@@ -1,0 +1,19 @@
+export const Colors={
+    darkBlack:"#1d1b1c",
+    white:"#ffffff",
+    lightDark:"#adb5bd",
+    grey:"#999999",
+    darkGrey:"#323031",
+    lightOrange:"#f4f4f4",
+    yellow:"#fec141",
+    extraLightOrange:"#fecac1",
+    lightGreen:"#d2f2cb",
+    fadedDark:"#323031",
+    fadedGrey:"#a5a4a5",
+    lightBlue:"#493add",
+    extraLightGreen:"#d2f2cb",
+    extraLightRed:"#fecac1",
+     extraLightGrey:"#f4f4f4",
+    fadedBlack:"#323031",
+    fadedWhite:"#d1d1d1"
+}
